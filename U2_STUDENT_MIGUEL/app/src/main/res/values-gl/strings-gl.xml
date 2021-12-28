@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PREMIAZOS!</string>
+
+    <string name="txtEscribeNombre">Escribe o teu nome</string>
+    <string name="txtIngresaCodigo">Ingresa o teu código</string>
+    <string name="btnComprobar">Comprobar</string>
+    <string name="txtResultado">Resultado</string>
+    <string name="btnVerpremios">Ver Premios</string>
+    <string name="btnCerrar">Pechar</string>
+
+
+    <string name="codigoVacio" translatable="false">O código non pode quedar valeiro</string>
+    <string name="nombreVacio" translatable="false">O nome non pode quedar valeiro</string>
+    <string name="animo" translatable="false">Sorte...</string>
+
+    <string name="perder" translatable="false">Síntoo %1$s.\nPerdeche.</string>
+    <string name="ganar" translatable="false">Noraboa %1$s,\n gañaches!</string>
+
+    <string name="codigo" translatable="false">abc123</string>
+
+</resources>

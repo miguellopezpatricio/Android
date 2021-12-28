@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WIN WIN!</string>
+
+    <string name="txtEscribeNombre">Write your name</string>
+    <string name="txtIngresaCodigo">Type your code</string>
+    <string name="btnComprobar">Check</string>
+    <string name="txtResultado">Result</string>
+    <string name="btnVerpremios">See Awards</string>
+    <string name="btnCerrar">Close</string>
+
+
+    <string name="codigoVacio" translatable="false">Code can not be empty</string>
+    <string name="nombreVacio" translatable="false">Name can not be empty</string>
+    <string name="animo" translatable="false">Good luck...</string>
+
+    <string name="perder" translatable="false">Sorry %1$s.\nYOU LOOSE!!!</string>
+    <string name="ganar" translatable="false">CONGRATS %1$s!,\n YOU WIN!!!</string>
+
+    <string name="codigo" translatable="false">abc123</string>
+
+</resources>

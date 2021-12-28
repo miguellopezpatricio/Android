@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">PREMIAZOS!</string>
+
+    <string name="txtEscribeNombre">Escribe tu nombre</string>
+    <string name="txtIngresaCodigo">Ingresa tu código</string>
+    <string name="btnComprobar">Comprobar</string>
+
+    <string name="txtResultado">Resultado</string>
+
+    <string name="btnVerpremios">Ver Premios</string>
+    <string name="btnCerrar">Cerrar</string>
+
+    <string name="codigoVacio" translatable="false">El codigo no puede quedar vacío</string>
+   <string name="nombreVacio" translatable="false">El nombre no puede quedar vacío</string>
+    <string name="animo" translatable="false">Suerte...</string>
+    <string name="perder" translatable="false">Lo siento %1$s, has perdido.\nVuelve a intentarlo</string>
+
+    <string name="ganar" translatable="false">¡Enhorabuena %1$s!,\nhas ganado!</string>
+
+    <string name="codigo" translatable="false">abc123</string>
+
+
+</resources>
