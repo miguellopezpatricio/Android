@@ -11,4 +11,5 @@ EditText para introducción de información
 TextView para mostrar resultados y avisos de la app
 Botones diversos para comprobar premios, ver premios...
 
+U3_STUDENT_MIGUEL Proyecto de app android para practicar el uso de diversos elementos de una aplicación e interactuar con ellos.
 
