@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">U3_STUDENT_MIGUEL</string>
+
+    <string name="action_settings"> Ajustes</string>
+    <string name="text_clear"> Borrar </string>
+    <string name="text_button"> Añadir / Borrar</string>
+    <string name="text_label"> Aquí podrás ver el texto que has escrito</string>
+    <string name="text_hint"> Escribe algún texto y pulsa el botón</string>
+    <string name="text_red"> Rojo</string>
+    <string name="text_blue"> Azul</string>
+    <string name="text_start"> Inicio</string>
+    <string name="text_stop"> Fin</string>
+    <string name="text_image"> Ría de Vigo - Pontevedra</string>
+    <string name="text_toast_gal"> Has seleccionado una provincia gallega</string>
+    <string name="text_toast_no_gal"> No has seleccionado una provincia gallega</string>
+    <string name="text_toast_no_text"> Por favor, haz una selección</string>
+
+    <string name="img_description"> Foto de la Ría de Vigo</string>
+</resources>

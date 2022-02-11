@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">U3_STUDENT_MIGUEL</string>
+
+    <string name="action_settings"> Axustes</string>
+    <string name="text_clear"> Borrar </string>
+    <string name="text_button"> Engadir / Borrar</string>
+    <string name="text_label"> Aquí é onde verás o texto que escribas</string>
+    <string name="text_hint"> Escribe algún texto e preme o botón</string>
+    <string name="text_red"> Vermello</string>
+    <string name="text_blue"> Azul</string>
+    <string name="text_start"> Inicio</string>
+    <string name="text_stop"> Fin</string>
+    <string name="text_image"> Ría de Vigo - Pontevedra</string>
+    <string name="text_toast_gal"> Seleccionaches unha provincia galega</string>
+    <string name="text_toast_no_gal"> Non seleccionaches unha provincia galega</string>
+    <string name="text_toast_no_text"> Por favor, fai unha selección</string>
+
+    <string name="img_description"> Foto da Ría de Vigo</string>
+</resources>
